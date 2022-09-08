@@ -1,6 +1,5 @@
 #### :shipit: ![](https://img.shields.io/badge/Welcome%20-To%20my%20GitHub%20profile.-9cf)
 
-<img src="https://blog.agepokemon.com/wp-content/uploads/2020/04/1-dragonite.gif"/>   
 
  > &#127758; Hello! My name is Grazielli and my nickname is @grazielli6
  
@@ -31,7 +30,6 @@ using language:
  
  
  
- <img src="https://jbchost.com.br/madeinjapan/wp-content/uploads/2015/09/pixelart_gif.gif"/> 
-                                    
+
 
 
